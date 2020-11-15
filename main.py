@@ -1,5 +1,5 @@
 '''
-Developer: Юшкевич Игорь
+Developer: Соснин Денис
 Group: IA-832
 Date: 13.11.2020
 '''
