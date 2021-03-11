@@ -16,7 +16,7 @@ topics = ['5G', 'IP', 'AI', 'Cloud']
 
 # РАБОТА БОТА
 def run_bot():
-    TOKEN = 'https://quiz.honorcup.ru/app/?id=57522&sign=d02f37e2f3b36a1eab6644eecad511f8'
+    TOKEN = 'your_token'
 
     browser = webdriver.Firefox(executable_path='geckodriver.exe')
 
